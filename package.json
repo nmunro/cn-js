@@ -4,7 +4,8 @@
   "description": "Apprentice Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "main": "node server.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
