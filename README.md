@@ -1,2 +1,2 @@
-# cn-apprentice-18
-Apprentice Project
+# cn-js
+Git Project
